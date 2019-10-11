@@ -19,13 +19,13 @@
         <hook type="after_plugin_install" src="scripts/apply-changes.js" />
 
         <!-- Firebase Core -->
-        <preference name="firebase-core" default="17.0.0" />
+        <preference name="firebase-core" default="17.0.2" />
 
         <!-- Ads -->
         <preference name="firebase-ads" default="18.0.0" />
 
         <!-- Analytics -->
-        <preference name="firebase-analytics" default="17.0.0" />
+        <preference name="firebase-analytics" default="17.0.2" />
 
         <!-- App Indexing -->
         <preference name="firebase-appindexing" default="19.0.0" />
